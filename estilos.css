@@ -1,0 +1,17 @@
+body { font-family: Arial, sans-serif; margin: 0; background: #f4f6f8; color: #222; }
+header { background: #00c8ff; color: #fff; padding: 16px 24px; }
+header h1 { margin: 0; font-size: 22px; }
+main { max-width: 900px; margin: 24px auto; background: #fff; padding: 24px; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,.15); }
+nav a, .btn { display: inline-block; background: #0099ff; color: #fff; text-decoration: none; padding: 10px 18px; border-radius: 6px; border: 0; cursor: pointer; font-size: 15px; margin: 4px 6px 4px 0; }
+.btn-rojo { background: #c0392b; }
+.btn-gris { background: #6c757d; }
+label { display: block; margin-top: 12px; font-weight: bold; }
+input, select { width: 100%; padding: 8px; margin-top: 4px; box-sizing: border-box; font-size: 15px; }
+table { width: 100%; border-collapse: collapse; margin-top: 16px; }
+th, td { border: 1px solid #ccc; padding: 8px; text-align: center; }
+th { background: #00c8ff; color: #fff; }
+td img { width: 70px; height: 70px; object-fit: cover; border-radius: 4px; }
+.msg { padding: 12px; border-radius: 6px; margin-bottom: 12px; }
+.ok { background: #d4edda; color: #0099ff; }
+.error { background: #f8d7da; color: #721c24; }
+form.inline { display: inline; }
